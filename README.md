@@ -49,7 +49,7 @@ Miembros
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (Usability-review.pdf)
+>>> - Enlace al documento:  (P1/Usability-review.pdf)
 >>> - Valoración final (numérica): 84
 >>> - Comentario sobre la valoración: Civitatis es una web que cumple con creces, intuitiva, efectiva, sin ningún error apreciable y orientada a un gran número de usuarios debido a sus posibilidad de personalización.
 
